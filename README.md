@@ -1,7 +1,7 @@
-# 🌟 William Hoffman's Github Account 
+# 🌟 William Hoffman's Github Account 🌟
 
-## 🎓 United States Military Academy
-### 🖥️ Computer Science Major
+## 🎓 United States Military Academy 🎓
+### 🖥️ Computer Science Major :zap: 
 
 ---
 
