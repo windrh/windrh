@@ -5,6 +5,8 @@
 
 **Project AICD** - A personal endeavor to learn and develop machine learning from scratch. This is the centerpiece of my work, and I'm excited to share it with you.
 
+<img src="https://images.deepai.org/glossary-terms/perceptron-6168423.jpg" style="width:100%; max-width:500px; display:block; margin:auto;">
+
 [**Explore Project AICD on GitHub**](https://github.com/windrh/Artificial-Intelligence)
 
 ## 🔓 James Bond USB
@@ -24,4 +26,3 @@ A stealthy device capable of hijacking a computer with physical access. This USB
 ## 🐾 Pets
 
 I love animals, and I've helped take care of my sisters' pet guinea pigs named Brownie, Sunny, Rascal, Little Snickers, and Kevin! They are all adorable and fun to be around. Taking care of them has taught me responsibility and patience, and I always look forward to spending time with them.
-
