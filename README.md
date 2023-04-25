@@ -7,6 +7,7 @@
 
 <img src="https://images.deepai.org/glossary-terms/perceptron-6168423.jpg" style="width:100%; max-width:500px; display:block; margin:auto;">
 
+
 [**Explore Project AICD on GitHub**](https://github.com/windrh/Artificial-Intelligence)
 
 ## 🔓 James Bond USB
