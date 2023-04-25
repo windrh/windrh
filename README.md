@@ -1,4 +1,4 @@
-# 🌟 William Hoffman's World
+# 🌟 William Hoffman's Github Account 
 
 ## 🎓 United States Military Academy
 ### 🖥️ Computer Science Major
