@@ -9,8 +9,6 @@ The United States Military Academy (USMA), also known as West Point, is a four-y
   <img src="https://live.staticflickr.com/65535/52365642283_3f0313c7d0_b.jpg" style="width:33%">
 </div>
 
-### 🖥️ Computer Science Major :zap: 
-
 ---
 
 ## 🚀 Projects Showcase
