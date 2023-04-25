@@ -1,6 +1,14 @@
 # 🌟 William Hoffman's Github Account 🌟
 
 ## 🎓 United States Military Academy 🎓
+The United States Military Academy (USMA), also known as West Point, is a four-year federal service academy located in West Point, New York. It was originally established in 1802 as a training ground for the United States Army.
+
+![Members colour guard West Point United States](https://cdn.britannica.com/82/114982-050-44B11DD4/Members-colour-guard-West-Point-United-States.jpg)
+
+![West Point Cadets](https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/21/205/tdih-march16-HD.jpg)
+
+![West Point Campus](https://live.staticflickr.com/65535/52365642283_3f0313c7d0_b.jpg)
+
 ### 🖥️ Computer Science Major :zap: 
 
 ---
