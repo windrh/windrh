@@ -6,7 +6,7 @@
 **Project AICD** - A personal endeavor to learn and develop machine learning from scratch. This is the centerpiece of my work, and I'm excited to share it with you.
 
 <div style="background-color: #0099ff; text-align: center; padding: 20px;">
-  <img src="https://images.deepai.org/glossary-terms/perceptron-6168423.jpg" style="width:100%; max-width:500px; display:block; margin:auto;">
+  <img src="https://blog.sigplan.org/wp-content/uploads/2021/11/shutterstock_144479800-1-scaled.jpg" style="width:100%; max-width:500px; display:block; margin:auto;">
 </div>
 
 [**Explore Project AICD on GitHub**](https://github.com/windrh/Artificial-Intelligence)
