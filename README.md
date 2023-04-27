@@ -1,6 +1,6 @@
 # 🚀 Projects Showcase
 
-[**Launch Website**](https://windrh.github.io/test.html)
+[**Launch Personal Page**](https://windrh.github.io/test.html)
 
   
 ## 🌟🤖 Project AICD
